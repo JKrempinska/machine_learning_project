@@ -1,0 +1,22 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts
+*.pkl
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notes
+git_tips.md
