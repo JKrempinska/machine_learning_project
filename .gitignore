@@ -21,3 +21,7 @@ Thumbs.db
 # Notes
 git_tips.md
 planning/
+
+# ML Flow
+mlruns/
+*.db
