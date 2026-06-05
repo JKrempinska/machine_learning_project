@@ -5,7 +5,7 @@ data/processed/
 # Python
 __pycache__/
 *.pyc
-.env
+.venv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
@@ -19,4 +19,9 @@ __pycache__/
 Thumbs.db
 
 # Notes
-git_tips.md.env
+git_tips.md
+planning/
+
+# ML Flow
+mlruns/
+*.db
